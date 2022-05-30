@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+img{
+   height: 100px;
+   width:100px
+}
+.div{
+   margin-top: 50px;
+}
+button{
+   background-color: black;
+   color: white;
+   height: 40px;
+   width:200px;
+   font-size: large;
+}
+p{
+   font-size: large;
+   font-weight: bold;
+}
